@@ -3,6 +3,7 @@
 Um aplicativo simples desenvolvido com React Native e Expo, criado para treinar e dar os primeiros passos no desenvolvimento mobile.
 
 ## 📌 Sobre o Projeto
+
 O Green Lantern App é um aplicativo com apenas uma tela, exibindo o símbolo do Lanterna Verde.
 Quando o usuário toca no símbolo, a lanterna do dispositivo é acionada, iluminando como um verdadeiro Guardião de Oa. 🌌
 
@@ -14,7 +15,7 @@ Este é meu primeiro projeto em React Native, feito com o objetivo de aprender e
 
 - Expo
 
-##  Funcionalidades
+## Funcionalidades
 
 ✅ Interface simples e intuitiva
 ✅ Exibe o símbolo do Lanterna Verde
@@ -24,7 +25,6 @@ Este é meu primeiro projeto em React Native, feito com o objetivo de aprender e
 ▶️ Como executar o projeto
 
 Clone este repositório:
-
 
 git clone https://github.com/LucasBatistaX/App-lanterna-verde.git
 
